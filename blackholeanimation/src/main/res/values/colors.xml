@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gradient_start">#ff404660</color>
+    <color name="gradient_end_1">#ffffffff</color>
+    <color name="gradient_end_2">#ccffffff</color>
+    <color name="gradient_end_3">#b2ffffff</color>
+    <color name="gradient_end_4">#7fffffff</color>
+    <color name="gradient_end_5">#4cffffff</color>
+    <color name="gradient_end_6">#4cffffff</color>
+    <color name="gradient_end_7">#19ffffff</color>
+
+    <color name="blackhole_bg">#ff404660</color>
+</resources>
