@@ -10,7 +10,8 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="org.mazhuang.blackholeanimationview.MainActivity">
 
-    <org.mazhuang.blackholeanimation.BlackHoleView
+    <org.mazhuang.blackholeanimation.BlackHoleAnimationView
+        android:id="@+id/black_hole_animation"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 </RelativeLayout>

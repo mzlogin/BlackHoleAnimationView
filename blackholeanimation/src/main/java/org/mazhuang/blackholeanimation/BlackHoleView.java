@@ -49,8 +49,6 @@ public class BlackHoleView extends View {
         mColorArrays[4] = ViewUtils.getColorFromRes(context, R.color.gradient_end_5);
         mColorArrays[5] = ViewUtils.getColorFromRes(context, R.color.gradient_end_6);
         mColorArrays[6] = ViewUtils.getColorFromRes(context, R.color.gradient_end_7);
-
-        setBackgroundColor(ViewUtils.getColorFromRes(context, R.color.blackhole_bg));
     }
 
     @Override
